@@ -2,6 +2,12 @@
 
 This repo is to provide a function to group similar photos in your computer by using imageHash.
 
+### Example
+```python
+python image_hash.py -p /path/ -thres 10
+```
+
+
 ### Setup
 
 Python 3.5+ is required for compatability with all required modules
